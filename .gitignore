@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.mp4
+*.ts
+*.png
+*.jpg
+*.docx
+monitor_state.json
+alertas_detectadas.json
+seguimiento_en_vivo_*.md
+.env
+cookies.txt
