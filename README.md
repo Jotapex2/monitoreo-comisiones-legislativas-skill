@@ -2,6 +2,8 @@
 
 Skill de inteligencia legislativa en tiempo real e histórica para sesiones de **Comisiones** y **Salas** de la **Cámara de Diputadas y Diputados** y del **Senado de la República de Chile**. Cubre desde la ingesta dual de transmisiones y transcripción incremental hasta la generación de **Minutas Ejecutivas**, **Informes de Comisión** e **Informes de Sesión de Sala** en Markdown y Word (`.docx`).
 
+Además se pueden solicitar alertas cada x minutos de lo que se ha discutido, incluso con transcripciones directas, para tener un monitoreo en vivo de temas importantes.
+
 >Creada por Juan Pablo González Urriola
 ---
 
