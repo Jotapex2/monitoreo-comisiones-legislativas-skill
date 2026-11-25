@@ -2,8 +2,7 @@
 
 Skill de inteligencia legislativa en tiempo real e histórica para sesiones de **Comisiones** y **Salas** de la **Cámara de Diputadas y Diputados** y del **Senado de la República de Chile**. Cubre desde la ingesta dual de transmisiones y transcripción incremental hasta la generación de **Minutas Ejecutivas**, **Informes de Comisión** e **Informes de Sesión de Sala** en Markdown y Word (`.docx`).
 
-> Este repositorio es un fork de la skill `monitoreo-comisiones-legislativas` sin el módulo de bot autónomo de Telegram.
-
+>Creada por Juan Pablo González Urriola
 ---
 
 ## Características principales
