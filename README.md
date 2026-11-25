@@ -64,5 +64,5 @@ Clona este repositorio en tu directorio de skills de Antigravity/agente:
 ```bash
 git clone https://github.com/Jotapex2/monitoreo-comisiones-legislativas-skill.git ~/.gemini/config/skills/monitoreo-comisiones-legislativas
 ```
-
+Aunque funciona con cualquier agente de IA (Command code, Opencode, Claude, Codex, etc. Solo con pegar el link de github y pedir que lo instale estás listo :)
 O consulta [SKILL.md](SKILL.md) para el flujo completo de trabajo y los comandos de cada script.
